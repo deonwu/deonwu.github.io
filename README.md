@@ -9,6 +9,9 @@ http://johnmacfarlane.net/pandoc/README.html
 
 http://jekyllbootstrap.com/usage/jekyll-quick-start.html
 
+## 查看blog
+http://www.deonwu84.com
+
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
