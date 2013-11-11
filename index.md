@@ -12,3 +12,8 @@ tagline: Supporting tagline
 *   把之前在google上面的项目移过来。
 *   为每个工具完善用户手册。
 *   修改一下模板，在右边加一个文章列表。
+
+## Markdown 相关学习资料
+*  [Mardown 基本语法](http://wowubuntu.com/markdown/)
+*  [Jekyll 文档](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
