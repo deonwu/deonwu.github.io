@@ -9,9 +9,11 @@ tagline: Supporting tagline
 
 ## To-Do
 
+*   添加一个导航， "伪航迷" 
 *   把之前在google上面的项目移过来。
 *   为每个工具完善用户手册。
 *   修改一下模板，在右边加一个文章列表。
+
 
 ## Markdown 相关学习资料
 *  [Mardown 基本语法](http://wowubuntu.com/markdown/)
